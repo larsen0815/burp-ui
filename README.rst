@@ -199,7 +199,7 @@ But I didn't think yet of what to do.
 Changelog
 ---------
 
-* version `current <https://git.ziirish.me/ziirish/burp-ui/>`_:
+* version `0.0.6 <https://git.ziirish.me/ziirish/burp-ui/commits/v0.0.6>`_:
 
   - Add `gunicorn support <https://git.ziirish.me/ziirish/burp-ui/commit/836f522f51ba0706ca94b379d93b20c75e71ecb1>`_
   - Add `init script for CentOS <https://git.ziirish.me/ziirish/burp-ui/issues/27>`_
@@ -217,7 +217,7 @@ Changelog
   - Code cleanup
   - Improve unit tests
   - Bugfixes
-  - `Full changelog <https://git.ziirish.me/ziirish/burp-ui/compare/v0.0.5...master>`_
+  - `Full changelog <https://git.ziirish.me/ziirish/burp-ui/compare/v0.0.5...v0.0.6>`_
 
 * version `0.0.5 <https://git.ziirish.me/ziirish/burp-ui/commits/v0.0.5>`_:
 
