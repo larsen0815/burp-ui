@@ -217,28 +217,28 @@ Changelog
   - Code cleanup
   - Improve unit tests
   - Bugfixes
-  - `Full changelog <https://git.ziirish.me/ziirish/burp-ui/compare/v0.0.5...v0.0.6>`_
+  - `Full changelog <https://git.ziirish.me/ziirish/burp-ui/compare/v0.0.5...v0.0.6>`__
 
 * version `0.0.5 <https://git.ziirish.me/ziirish/burp-ui/commits/v0.0.5>`_:
 
   - Add multi-server support
   - Fix bugs
-  - `Full changelog <https://git.ziirish.me/ziirish/burp-ui/compare/v0.0.4...v0.0.5>`_
+  - `Full changelog <https://git.ziirish.me/ziirish/burp-ui/compare/v0.0.4...v0.0.5>`__
 
 * version `0.0.4 <https://git.ziirish.me/ziirish/burp-ui/commits/v0.0.4>`_:
 
   - Add the ability to download files directly from the web interface
-  - `Full changelog <https://git.ziirish.me/ziirish/burp-ui/compare/v0.0.3...v0.0.4>`_
+  - `Full changelog <https://git.ziirish.me/ziirish/burp-ui/compare/v0.0.3...v0.0.4>`__
 
 * version `0.0.3 <https://git.ziirish.me/ziirish/burp-ui/commits/v0.0.3>`_:
 
   - Add authentication
-  - `Full changelog <https://git.ziirish.me/ziirish/burp-ui/compare/v0.0.2...v0.0.3>`_
+  - `Full changelog <https://git.ziirish.me/ziirish/burp-ui/compare/v0.0.2...v0.0.3>`__
 
 * version `0.0.2 <https://git.ziirish.me/ziirish/burp-ui/commits/v0.0.2>`_:
 
   - Fix bugs
-  - `Full changelog <https://git.ziirish.me/ziirish/burp-ui/compare/v0.0.1...v0.0.2>`_
+  - `Full changelog <https://git.ziirish.me/ziirish/burp-ui/compare/v0.0.1...v0.0.2>`__
 
 * version `0.0.1 <https://git.ziirish.me/ziirish/burp-ui/commits/v0.0.1>`_:
 
