@@ -1,8 +1,8 @@
 Build Status
 ------------
 
-.. image:: https://ci.ziirish.me/projects/1/status.png?ref=master
-    :target: https://ci.ziirish.me/projects/1?ref=master
+.. image:: https://ci.ziirish.me/projects/1/status.png?ref=0.0.6
+    :target: https://ci.ziirish.me/projects/1?ref=0.0.6
 
 Screenshots
 -----------
